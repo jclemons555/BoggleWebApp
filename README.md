@@ -1,2 +1,3 @@
-if app does not run enter command: export NODE_OPTIONS=--openssl-legacy-provider
-then, npm run start
+if app does not run afrt npm start, enter command: export NODE_OPTIONS=--openssl-legacy-provider
+***************************************************************************************************
+then, enter command: npm run start
